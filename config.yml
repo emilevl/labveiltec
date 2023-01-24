@@ -22,7 +22,7 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Emile Vianney-Liaud
 
 
     defaultTheme: auto
@@ -37,8 +37,8 @@ params:
     profileMode:
         enabled: true
         title: Emile Vianney-Liaud
-        imageUrl: "/images/photo-emile-2.jpeg"
-        imageTitle: my image
+        imageUrl: "/images/photo-emile-petit.jpeg"
+        imageTitle: Profil Emile Vianney-Liaud
         # imageWidth: 120
         # imageHeight: 120
         buttons:
@@ -48,12 +48,12 @@ params:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+        - name: instagram
+          url: "https://www.instagram.com/emilevl/"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/emilevl/"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/vianney-liaud-emile/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
