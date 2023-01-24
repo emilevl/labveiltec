@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/articles/</loc>
+    <loc>https://emilevl.github.io/labveiltec/articles/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://emilevl.github.io/labveiltec/categories/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://emilevl.github.io/labveiltec/contact/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://emilevl.github.io/labveiltec/</loc>
   </url><url>
-    <loc>/articles/article/</loc>
+    <loc>https://emilevl.github.io/labveiltec/articles/article/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://emilevl.github.io/labveiltec/tags/</loc>
   </url>
 </urlset>
