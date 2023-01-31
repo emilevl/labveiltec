@@ -6,13 +6,64 @@
     <description>Recent content on emilevl</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://emilevl.github.io/labveiltec/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nouvel article</title>
-      <link>https://emilevl.github.io/labveiltec/articles/article/</link>
+      <title>Expérimentation - Nuxt.js &amp; Vue.js</title>
+      <link>https://emilevl.github.io/labveiltec/articles/pub6-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://emilevl.github.io/labveiltec/articles/article/</guid>
-      <description>Thank you for your support! Hello. If you like this template, I&amp;rsquo;d be happy to get a coffee donation :)
- </description>
+      <guid>https://emilevl.github.io/labveiltec/articles/pub6-test/</guid>
+      <description>Expérimentation Dans le cadre de mes études à la HEIG-VD, j&amp;rsquo;ai eu l&amp;rsquo;occasion de développer mon portfolio en ligne. Au lieu de choisir un CMS classique comme Wordpress, j&amp;rsquo;ai décidé de me lancer dans l&amp;rsquo;utilisation de Nuxt.JS et Vue.JS. Bien que j&amp;rsquo;aie déjà rencontré Vue.js dans mes cours, Nuxt.JS était une nouvelle technologie pour moi.
+Nuxt.js Nuxt.js est un framework JavaScript basé sur Vue.js qui vise à faciliter le développement d&amp;rsquo;applications web et d&amp;rsquo;applications de rendu côté serveur (SSR, Server-side Rendering).</description>
+    </item>
+    
+    <item>
+      <title>GitHub et l&#39;open source</title>
+      <link>https://emilevl.github.io/labveiltec/articles/pub2-opensource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilevl.github.io/labveiltec/articles/pub2-opensource/</guid>
+      <description>GitHub L’Open Source est toujours plus grand : des communautés se créent pour chaque langage et sont réellement actives à la croissance de ces derniers. Source image: Octoverse
+Etant développeur web, j&amp;rsquo;ai voulu me renseigner sur GitHub, les communautés et le monde de l&amp;rsquo;open source.
+GitHub a joué un rôle important dans le monde de l&amp;rsquo;Open Source en permettant à des développeurs du monde entier de collaborer et de contribuer à des projets communs.</description>
+    </item>
+    
+    <item>
+      <title>Javascript et frameworks</title>
+      <link>https://emilevl.github.io/labveiltec/articles/pub3-js-frameworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilevl.github.io/labveiltec/articles/pub3-js-frameworks/</guid>
+      <description>Introduction En tant que développeur, il est important de connaître l&amp;rsquo;état actuel de JavaScript et des frameworks qui s&amp;rsquo;y rattachent. Les nouvelles technologies et les mises à jour apportées aux frameworks peuvent influencer notre choix lors du développement de nouvelles applications, ce qui peut avoir un impact sur la qualité du produit final.
+Javascript JavaScript est un langage de programmation qui a énormément évolué au fil des années. Il est le langage de développement le plus populaire, utilisé pour la création d&amp;rsquo;applications web.</description>
+    </item>
+    
+    <item>
+      <title>Les sources de ma veille</title>
+      <link>https://emilevl.github.io/labveiltec/articles/pub1-sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilevl.github.io/labveiltec/articles/pub1-sources/</guid>
+      <description>L&amp;rsquo;importance de la veille Il est important pour moi de rester à jour dans mon domaine qu’est le développement web. Chaque jour de nouvelles avancées technologiques et de nouvelles méthodes de développement sont publiés sur le web. Avec le monde en constante évolution et rapide de la technologie, il peut être difficile de suivre, mais avec les bonnes sources, cela peut être rendu plus facile. Dans cet article, je partage mes sources préférées pour rester à jour sur les dernières nouveautés en développement web.</description>
+    </item>
+    
+    <item>
+      <title>Optimisation des sites web</title>
+      <link>https://emilevl.github.io/labveiltec/articles/pub4-website-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilevl.github.io/labveiltec/articles/pub4-website-optimization/</guid>
+      <description>L&amp;rsquo;importance de l&amp;rsquo;optimisation de sites web L&amp;rsquo;optimisation de sites web est une tâche cruciale pour les développeurs web. Elle permet d&amp;rsquo;améliorer la vitesse de chargement des pages, de réduire la consommation de ressources et de minimiser les coûts d&amp;rsquo;hébergement. En plus d&amp;rsquo;avoir un impact positif sur l&amp;rsquo;expérience utilisateur, une attention particulière à la performance peut également améliorer les performances en matière de référencement naturel (SEO) et réduire l&amp;rsquo;impact écologique d&amp;rsquo;un site.</description>
+    </item>
+    
+    <item>
+      <title>Outils d&#39;apprentissage DEV</title>
+      <link>https://emilevl.github.io/labveiltec/articles/pub5-learning-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilevl.github.io/labveiltec/articles/pub5-learning-tools/</guid>
+      <description>L&amp;rsquo;art d&amp;rsquo;apprendre Les technologies évoluent constamment, et il est important de rester à jour en tant que développeur, et de savoir où et comment apprendre ces nouvelles et actuelles technologies.
+Heureusement pour nous, il existe une multitude d&amp;rsquo;outils afin d&amp;rsquo;aider les débutants mais aussi les plus avancés à progresser.
+L&amp;rsquo;objectif de cet article est de présenter différents outils que je trouve pertinent pour les développeurs juniors et les seniors.
+Outils Github Git est un système de gestion de version décentralisé pour les projets de développement de logiciels.</description>
     </item>
     
   </channel>
